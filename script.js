@@ -35,5 +35,6 @@ function dirAnimales() {
 			break;
 
 		default:
+			console.log("opcion no valída");
 	}
 }
